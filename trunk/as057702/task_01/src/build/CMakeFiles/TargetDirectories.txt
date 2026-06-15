@@ -1,0 +1,3 @@
+D:/TMAU/TMAU/trunk/as057702/task_0/src/build/CMakeFiles/my_program.dir
+D:/TMAU/TMAU/trunk/as057702/task_0/src/build/CMakeFiles/edit_cache.dir
+D:/TMAU/TMAU/trunk/as057702/task_0/src/build/CMakeFiles/rebuild_cache.dir

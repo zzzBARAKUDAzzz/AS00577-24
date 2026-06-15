@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/TMAU/TMAU/trunk/as057702/task_0/src/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\my_program.dir\\main.cpp.obj -c D:\\TMAU\\TMAU\\trunk\\as057702\\task_0\\src\\main.cpp",
+  "file": "D:/TMAU/TMAU/trunk/as057702/task_0/src/main.cpp",
+  "output": "CMakeFiles/my_program.dir/main.cpp.obj"
+}
+]
